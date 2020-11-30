@@ -1,1 +1,1 @@
-# Titanic-ML-Competition-Group-4
+# Titanic ML Competition Group 4
